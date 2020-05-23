@@ -1,0 +1,12 @@
+body
+{
+	background-image:url('../images/bg2.jpg');
+	background-repeat:no-repeat;
+}
+#outer
+{
+height:100px;
+width:100%;
+border:1px solid blue;
+background-image:('url../images/bg5.jpg');
+}

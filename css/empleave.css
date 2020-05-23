@@ -1,0 +1,45 @@
+body
+{
+	
+}
+#outer
+{
+height:600px;
+width:100%;
+//border:1px solid blue;
+background-image:url('../images/calendar.jpg');
+	background-repeat:no-repeat;
+}
+#header
+{
+	height:100px;
+	width:100%;
+	//border:1px solid green;
+	font-size:30px;
+	background-color:white;
+	//float:left;
+	text-align:right;
+	font-size:60px;
+}
+#logo
+{
+	height:100px;
+	width:200px;
+	//border:1px solid red;
+	background-color:lightgrey;
+	float:left;
+	background-image:url('../images/mainlogo.png');
+}
+#main
+{
+	height:400px;
+	width:500px;
+	border:3px solid yellow;
+	margin-left:400px;
+	margin-top:50px;
+	background-color:rgba(0,0,0,0.2);
+	font-size:bold;
+	font-family:verdana;
+	border-radius:30px 30px 30px 30px;
+	
+}
